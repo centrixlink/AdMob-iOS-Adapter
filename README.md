@@ -1,7 +1,5 @@
 # AdMob-iOS-Adapter
 
-**目录:**
-
 
 ### 步骤1: 前往AdMob，将Centrixlink添加到Mediation group
 
